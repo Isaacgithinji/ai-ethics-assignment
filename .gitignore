@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment / dependency files
+*.env
+.env.*
+
+# Pytest / cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# OneDrive sync files
+*.lnk
+desktop.ini
